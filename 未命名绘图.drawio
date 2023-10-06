@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-10-06T02:40:03.347Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="bqZ9JVScDY1J2sxj4Eky" version="22.0.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-10-06T03:09:49.689Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="Bunuzgj6eLjX7yYxvwRd" version="22.0.2" type="github">
   <diagram name="第 1 页" id="-ltAU7qZAbOefrUTDTnM">
     <mxGraphModel dx="695" dy="691" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#FFFFFF" math="0" shadow="0">
       <root>
@@ -181,7 +181,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="TU4aSk22JaYozT5Npltr-84" value="登記收款帳戶" style="ellipse;whiteSpace=wrap;html=1;labelBackgroundColor=none;rounded=1;" parent="1" vertex="1">
+        <mxCell id="TU4aSk22JaYozT5Npltr-84" value="新增收款帳戶" style="ellipse;whiteSpace=wrap;html=1;labelBackgroundColor=none;rounded=1;" parent="1" vertex="1">
           <mxGeometry x="156" y="1010" width="95" height="40" as="geometry" />
         </mxCell>
         <mxCell id="TU4aSk22JaYozT5Npltr-86" value="選擇支付方式" style="ellipse;whiteSpace=wrap;html=1;labelBackgroundColor=none;rounded=1;" parent="1" vertex="1">
@@ -415,7 +415,7 @@
             <mxPoint x="299" y="579" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="23oSz3EyL7wXVmBEdO4Q-17" value="&amp;lt;&amp;lt;extend&amp;gt;&amp;gt;" style="endArrow=block;endSize=16;endFill=0;html=1;rounded=1;labelBackgroundColor=none;fontColor=default;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="TU4aSk22JaYozT5Npltr-113" target="TU4aSk22JaYozT5Npltr-158">
+        <mxCell id="23oSz3EyL7wXVmBEdO4Q-17" value="&amp;lt;&amp;lt;extend&amp;gt;&amp;gt;" style="endArrow=block;endSize=16;endFill=0;html=1;rounded=1;labelBackgroundColor=none;fontColor=default;" edge="1" parent="1" source="TU4aSk22JaYozT5Npltr-113" target="TU4aSk22JaYozT5Npltr-158">
           <mxGeometry x="0.1289" y="6" width="160" relative="1" as="geometry">
             <mxPoint x="342" y="435" as="sourcePoint" />
             <mxPoint x="220" y="376" as="targetPoint" />
