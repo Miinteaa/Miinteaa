@@ -1,13 +1,13 @@
-<mxfile host="app.diagrams.net" modified="2023-12-03T06:44:44.092Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="nKrPlLo105bsJGd7OFbZ" version="22.1.5" type="github">
+<mxfile host="app.diagrams.net" modified="2023-12-03T14:17:34.667Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="r4TkExmhPwSndHDlbJs4" version="22.1.5" type="github">
   <diagram name="第 1 页" id="quUWREb-jlwR2Ny_MdLy">
-    <mxGraphModel dx="890" dy="360" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1290" dy="522" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="rR45mx5UOw72tcgHX984-3" value="" style="ellipse;fillColor=strokeColor;html=1;" vertex="1" parent="1">
           <mxGeometry x="165" y="30" width="30" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="rR45mx5UOw72tcgHX984-5" value="名稱&lt;br&gt;密碼" style="shape=note2;boundedLbl=1;whiteSpace=wrap;html=1;size=25;verticalAlign=top;align=left;" vertex="1" parent="1">
+        <mxCell id="rR45mx5UOw72tcgHX984-5" value="密碼" style="shape=note2;boundedLbl=1;whiteSpace=wrap;html=1;size=25;verticalAlign=top;align=left;" vertex="1" parent="1">
           <mxGeometry x="295" y="100" width="110" height="60" as="geometry" />
         </mxCell>
         <mxCell id="rR45mx5UOw72tcgHX984-6" value="輸入：" style="resizeWidth=1;part=1;strokeColor=none;fillColor=none;align=left;spacingLeft=5;" vertex="1" parent="rR45mx5UOw72tcgHX984-5">
@@ -52,7 +52,7 @@
         <mxCell id="rR45mx5UOw72tcgHX984-19" value="顯示更新成功提示" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="120" y="400" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="rR45mx5UOw72tcgHX984-20" value="更新成功提示&lt;br&gt;名稱&lt;br&gt;密碼" style="shape=note2;boundedLbl=1;whiteSpace=wrap;html=1;size=25;verticalAlign=top;align=left;" vertex="1" parent="1">
+        <mxCell id="rR45mx5UOw72tcgHX984-20" value="更新成功提示&lt;br&gt;密碼" style="shape=note2;boundedLbl=1;whiteSpace=wrap;html=1;size=25;verticalAlign=top;align=left;" vertex="1" parent="1">
           <mxGeometry x="295" y="387.5" width="110" height="85" as="geometry" />
         </mxCell>
         <mxCell id="rR45mx5UOw72tcgHX984-21" value="輸出：" style="resizeWidth=1;part=1;strokeColor=none;fillColor=none;align=left;spacingLeft=5;" vertex="1" parent="rR45mx5UOw72tcgHX984-20">
@@ -70,8 +70,8 @@
         <mxCell id="rR45mx5UOw72tcgHX984-26" value="" style="ellipse;fillColor=strokeColor;html=1;" vertex="1" parent="1">
           <mxGeometry x="165" y="600" width="30" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="rR45mx5UOw72tcgHX984-27" value="1. 新增&lt;br&gt;2. 修改&lt;br&gt;3. 刪除&lt;br&gt;4. 封鎖" style="shape=note2;boundedLbl=1;whiteSpace=wrap;html=1;size=25;verticalAlign=top;align=left;" vertex="1" parent="1">
-          <mxGeometry x="295" y="650" width="110" height="100" as="geometry" />
+        <mxCell id="rR45mx5UOw72tcgHX984-27" value="1. 修改&lt;br&gt;2. 刪除&lt;br&gt;3. 封鎖" style="shape=note2;boundedLbl=1;whiteSpace=wrap;html=1;size=25;verticalAlign=top;align=left;" vertex="1" parent="1">
+          <mxGeometry x="295" y="660" width="110" height="80" as="geometry" />
         </mxCell>
         <mxCell id="rR45mx5UOw72tcgHX984-28" value="功能清單：" style="resizeWidth=1;part=1;strokeColor=none;fillColor=none;align=left;spacingLeft=5;" vertex="1" parent="rR45mx5UOw72tcgHX984-27">
           <mxGeometry width="110" height="25" relative="1" as="geometry" />
@@ -340,19 +340,6 @@
             <mxPoint x="490" y="1770" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="rR45mx5UOw72tcgHX984-143" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1" source="rR45mx5UOw72tcgHX984-88" target="rR45mx5UOw72tcgHX984-92">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="756" y="163" as="sourcePoint" />
-            <mxPoint x="710" y="200" as="targetPoint" />
-            <Array as="points" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="rR45mx5UOw72tcgHX984-144" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1" source="rR45mx5UOw72tcgHX984-98" target="rR45mx5UOw72tcgHX984-101">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="756" y="723" as="sourcePoint" />
-            <mxPoint x="750" y="770" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="rR45mx5UOw72tcgHX984-145" value="" style="endArrow=none;dashed=1;html=1;rounded=0;" edge="1" parent="1" source="rR45mx5UOw72tcgHX984-30" target="rR45mx5UOw72tcgHX984-27">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="500" y="780" as="sourcePoint" />
@@ -399,6 +386,12 @@
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="240" y="129.66" as="sourcePoint" />
             <mxPoint x="295" y="129.66" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rR45mx5UOw72tcgHX984-154" value="" style="endArrow=block;startArrow=block;endFill=1;startFill=1;html=1;rounded=0;" edge="1" parent="1" source="rR45mx5UOw72tcgHX984-98" target="rR45mx5UOw72tcgHX984-101">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="700" y="689.5" as="sourcePoint" />
+            <mxPoint x="750" y="689.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
